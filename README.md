@@ -43,4 +43,4 @@ Used for additional data preprocessing or formatting before importing into Power
 
 The Google Trends Power BI Dashboard provides a comprehensive view of public interest patterns across different keywords and timeframes. By transforming raw Google Trends data into meaningful visual insights, the dashboard supports strategic decision-making for digital marketers, content creators, researchers, and analysts.
 Publishing this project on GitHub showcases strong skills in data modeling, visualization, and interactive dashboard design, while also offering a valuable reference for anyone exploring trend analytics using Power BI.
-EXAMPLE SNAPSHOT FOR GOOGLE TRENDS DASHBOARD : 
+EXAMPLE SNAPSHOT FOR GOOGLE TRENDS DASHBOARD : https://github.com/karthik-uddandam/Gooogle-trends-dashboard-/blob/main/google%20trends%20dashboard%20snap.png
